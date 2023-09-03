@@ -70,6 +70,7 @@ def evaluate(model, criterion, val_loader, device):
  
     return correct/total, epoch_loss/len(val_loader)
 
+# Main Trainer Code
 def train_model(config):
     device = 'cuda' if torch.cuda.is_available() else 'cpu'
 
