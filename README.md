@@ -2,7 +2,7 @@
 
 ### About the dataset
 
-The ![Original Dataset](https://data.mendeley.com/datasets/hf6sf8zrkc/2) contains Handwritten Bangla Characters and Digits. Here, only the Handwritten Digits have been taken into consideration. The dataset used here is available ![here](https://www.kaggle.com/datasets/ipythonx/banglalekhaisolatednumerals).
+The [Original Dataset](https://data.mendeley.com/datasets/hf6sf8zrkc/2) contains Handwritten Bangla Characters and Digits. Here, only the Handwritten Digits have been taken into consideration. The dataset used here is available [here](https://www.kaggle.com/datasets/ipythonx/banglalekhaisolatednumerals).
 
 ### Instructions for Training the model
 
@@ -23,5 +23,5 @@ The ![Original Dataset](https://data.mendeley.com/datasets/hf6sf8zrkc/2) contain
 
 ### Let's Connect
 
-![My Portfolio](https://sites.google.com/view/ayanabha)
-![LinkedIn](https://www.linkedin.com/in/ayanabha-ghosh-cs)
+[My Portfolio](https://sites.google.com/view/ayanabha)
+[LinkedIn](https://www.linkedin.com/in/ayanabha-ghosh-cs)
