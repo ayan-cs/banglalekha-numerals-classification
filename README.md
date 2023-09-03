@@ -1,1 +1,1 @@
-# banglalekha-numerals-resnet34
+# BanglaLekha Handwritten Digits Classification
